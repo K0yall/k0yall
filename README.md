@@ -21,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=K0yall&icon=10&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake GIF](https://github.com/k0yall/k0yall/raw/output/snake.gif)
