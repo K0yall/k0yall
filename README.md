@@ -22,3 +22,4 @@
 [![](https://visitcount.itsvg.in/api?id=K0yall&icon=10&color=3)](https://visitcount.itsvg.in)
 
 ![Snake GIF](https://github.com/K0yall/k0yall/raw/output/dist/snake.gif)
+![Anime Retro Computer](https://media.tenor.com/images/49a98dfdb8c9945b7cc44a9a75f0d93a/tenor.gif)
