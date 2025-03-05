@@ -1,51 +1,24 @@
-<!-- Header Animado -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=2E8B57&center=true&vCenter=true&width=600&lines=👋+Olá,+Sou+o+Lucas!;💻+Desenvolvedor+em+Formação;🌱+Aprendizado+Contínuo" alt="Header animado" />
-</div>
+# 💫 Sobre Mim:
+👋 Olá! Eu sou o Lucas.<br>🎯 Apaixonado por tecnologia, desafios e aprendizado constante!
+
+# 💻 Tecnologias:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# 📊 Estatísticas do GitHub:
+![](https://github-readme-stats.vercel.app/api?username=K0yall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=K0yall&theme=dark&hide_border=false&background=0D1117&ring=2E8B57&fire=2E8B57&currStreakNum=FFFFFF&sideNums=2E8B57&currStreakLabel=2E8B57&sideLabels=FFFFFF&dates=FFFFFF)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K0yall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF)
+
+## 🏆 Troféus do GitHub
+![](https://github-profile-trophy.vercel.app/?username=K0yall&theme=dark&no-frame=false&no-bg=false&margin-w=4&title=2E8B57&text_color=FFFFFF)
+
+### 🔝 Repositório Mais Contribuído
+![](https://github-contributor-stats.vercel.app/api?username=K0yall&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=K0yall&icon=9&color=2E8B57)](https://visitcount.itsvg.in)
 
-<!-- Seção Tech em Grid -->
-### 🚀 **Tecnologias que Utilizo**
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
+<!-- Criado com orgulho usando GPRM ( https://gprm.itsvg.in ) -->
 
----
-
-<!-- Stats em Cards Modernos -->
-### 📊 **Minha Atividade no GitHub**
-<div align="center">
-  <a href="https://github.com/K0yall">
-    <img src="https://github-readme-stats.vercel.app/api?username=K0yall&theme=dark&show_icons=true&bg_color=0D1117&title_color=2E8B57&hide_border=true&include_all_commits=true&custom_title=Minhas+Estatísticas" alt="Estatísticas do GitHub" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=K0yall&theme=dark&background=0D1117&ring=2E8B57&fire=2E8B57&currStreakNum=FFFFFF&sideNums=2E8B57&dates=FFFFFF" alt="Sequência de Contribuições" width="48%" />
-  </a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0yall&theme=dark&layout=compact&bg_color=0D1117&title_color=2E8B57&hide_border=true&langs_count=8" alt="Linguagens Mais Usadas" width="60%" />
-</div>
-
----
-
-<!-- Destaques Especiais -->
-### ⚡ **Destaques**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K0yall&theme=dark&bg_color=0D1117&title_color=2E8B57&hide_border=true&layout=compact" alt="Tempo de Codificação" width="60%" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0yall&theme=github_dark" alt="Repositórios por Linguagem" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0yall&theme=github_dark" alt="Linguagens com Mais Commits" width="45%" />
-</div>
-
----
-
-<!-- Footer Dinâmico -->
-<div align="center">
-  <img src="https://media.tenor.com/images/8f0a6b1dcb238acb9b7c24a5dcea5eef/tenor.gif" width="200px" alt="Tech animation" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=K0yall&color=2E8B57&style=flat-square" alt="Contador de Visitas" />
-</div>
+![Snake GIF](https://github.com/K0yall/k0yall/raw/output/dist/snake.gif)
+![Computador Retro de Anime](https://media.tenor.com/images/49a98dfdb8c9945b7cc44a9a75f0d93a/tenor.gif)
