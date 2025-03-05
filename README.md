@@ -54,4 +54,4 @@
 <a href="https://github.com/K0yall">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0yall&theme=github_dark&background_color=0D1117&title_color=2E8B57" alt="Detalhes do Perfil" width="100%">
 </a>
-[![Visitas](https://count.getloli.com/get/@K0yall?theme=moebooru)](https://github.com/K0yall)
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=K0yall&color=2E8B57&style=flat-square&logo=Github&text=Visitantes" alt="Visitas">
