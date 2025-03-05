@@ -46,51 +46,45 @@
 
 ---
 
-<!-- Footer Modernizado -->
-<div align="center" style="margin-top: 40px; padding: 20px 0; border-radius: 15px; background: linear-gradient(145deg, #0D1117 30%, #1a1f29 70%);">
+<!-- Footer Estilizado -->
+<div align="center" style="margin-top: 30px; padding: 20px 0;">
 
-  ### 📌 **Minhas Métricas**
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 15px; margin: 25px 0;">
-    <!-- Coluna 1 -->
-    <div>
-      <a href="https://github.com/K0yall?tab=repositories">
-        <img src="https://img.shields.io/badge/📦_Repositórios-${repo_count}-2E8B57?style=flat-square&logo=github" alt="Repositórios">
-      </a>
-    </div>
-    
-    <!-- Coluna 2 -->
-    <div>
-      <a href="https://github.com/K0yall?tab=followers">
-        <img src="https://img.shields.io/badge/👥_Seguidores-${followers}-2E8B57?style=flat-square&logo=github" alt="Seguidores">
-      </a>
-    </div>
-    
-    <!-- Coluna 3 -->
-    <div>
-      <a href="https://github.com/K0yall">
-        <img src="https://img.shields.io/badge/⭐_Estrelas-${stars}-2E8B57?style=flat-square&logo=github" alt="Estrelas">
-      </a>
-    </div>
-    
-    <!-- Coluna 4 -->
-    <div>
-      <a href="https://github.com/K0yall">
-        <img src="https://img.shields.io/badge/📝_Contribuições-${contributions}-2E8B57?style=flat-square&logo=github" alt="Contribuições">
-      </a>
-    </div>
-  </div>
+<!-- Métricas Principais -->
+### 📊 Minhas Estatísticas
 
-  <!-- Card de Detalhes Estilizado -->
-  <a href="https://github.com/K0yall">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0yall&theme=github_dark&background_color=0D1117&title_color=2E8B57&border_radius=15" alt="Detalhes do Perfil" width="90%">
+<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/K0yall?tab=repositories">
+    <img src="https://img.shields.io/badge/📦_Repositórios-11-2E8B57?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
-  <!-- Contador de Visitas Moderno -->
-  <div style="margin-top: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=K0yall&color=2E8B57&style=for-the-badge&label=👀+PROFILE+VIEWS" alt="Visitas">
-  </div>
-
-  <!-- Divider Animado -->
-  <img src="https://media.tenor.com/1UzlW31qLEwAAAAi/portal-pixel.gif" width="150px" alt="divider">
   
+  <a href="https://github.com/K0yall?tab=followers">
+    <img src="https://img.shields.io/badge/👥_Seguidores-2-2E8B57?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/K0yall">
+    <img src="https://img.shields.io/badge/⭐_Estrelas-0-2E8B57?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+---
+
+<!-- Detalhes do Perfil -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 25px 0;">
+  <div align="left">
+    <h3>Lucas Gilmar da Silva (K0yall)</h3>
+    <p>📍 Brazil, Santa Catarina</p>
+    <p>🚀 29 Contribuições em 2023</p>
+    <p>📅 No GitHub há 1 ano</p>
+  </div>
+  
+  <div align="center">
+    <img src="https://media.tenor.com/x4e0XLiH0ssAAAAi/pixel-art.gif" width="120px" alt="pixel-art">
+  </div>
+</div>
+
+<!-- Visitas -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=K0yall&color=2E8B57&style=for-the-badge&label=👀+VISUALIZAÇÕES+DO+PERFIL" alt="Visitas">
+</div>
+
 </div>
