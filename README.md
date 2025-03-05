@@ -1,6 +1,6 @@
 <!-- Cabeçalho Dinâmico com Gradiente -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+o+Lucas!;🎯+Apaixonado+por+Tecnologia+e+Desafios!;🚀+Bem-vindo+ao+meu+universo+tech!" alt="Header animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+o+Lucas!;🎯+Apaixonado+por+Tecnologia!;🚀+Bem-vindo+ao+meu+universo+tech!" alt="Header animado" />
 </div>
 
 ---
