@@ -20,5 +20,5 @@
 
 <!-- Criado com orgulho usando GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake GIF](https://github.com/K0yall/k0yall/raw/output/dist/snake.gif)
-![Computador Retro de Anime](https://media.tenor.com/images/49a98dfdb8c9945b7cc44a9a75f0d93a/tenor.gif)
+![Snake Animation](https://github.com/K0yall/K0yall/blob/output/github-contribution-grid-snake.svg)
+![Anime Retro Computer](https://media.tenor.com/images/49a98dfdb8c9945b7cc44a9a75f0d93a/tenor.gif)
