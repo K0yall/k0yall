@@ -71,5 +71,5 @@
 
 <!-- Visitas + Divider -->
 <div style="margin: 25px 0;">
-  <img src="https://komarev.com/ghpvc/?username=K0yall&color=2E8B57&style=for-the-badge&label=👀Viitas" alt="Visitas">
+  <img src="https://komarev.com/ghpvc/?username=K0yall&color=2E8B57&style=for-the-badge&label=👀Visitas" alt="Visitas">
 </div>
