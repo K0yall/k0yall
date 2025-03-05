@@ -51,3 +51,6 @@
   <img src="https://komarev.com/ghpvc/?username=K0yall&color=2E8B57&style=for-the-badge" alt="Visitas"> 
   <img src="https://img.shields.io/github/followers/K0yall?color=2E8B57&style=for-the-badge" alt="Seguidores">
 </div>
+<a href="https://github.com/K0yall">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0yall&theme=github_dark&background_color=0D1117&title_color=2E8B57" alt="Detalhes do Perfil" width="100%">
+</a>
