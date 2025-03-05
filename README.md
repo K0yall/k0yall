@@ -23,11 +23,11 @@
 ### 📊 **Minha Atividade no GitHub**
 <div align="center">
   <a href="https://github.com/K0yall">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=K0yall&theme=dark&show_icons=true&bg_color=0D1117&title_color=2E8B57&hide_border=true&include_all_commits=true&custom_title=Minhas+Estatísticas" alt="Estatísticas do GitHub" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=K0yall&theme=dark&background=0D1117&ring=2E8B57&fire=2E8B57&currStreakNum=FFFFFF&sideNums=2E8B57&dates=FFFFFF" alt="Sequência de Contribuições" />
+    <img src="https://github-readme-stats.vercel.app/api?username=K0yall&theme=dark&show_icons=true&bg_color=0D1117&title_color=2E8B57&hide_border=true&include_all_commits=true&custom_title=Minhas+Estatísticas" alt="Estatísticas do GitHub" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=K0yall&theme=dark&background=0D1117&ring=2E8B57&fire=2E8B57&currStreakNum=FFFFFF&sideNums=2E8B57&dates=FFFFFF" alt="Sequência de Contribuições" width="48%" />
   </a>
   <br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0yall&theme=dark&layout=compact&bg_color=0D1117&title_color=2E8B57&hide_border=true&langs_count=8" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0yall&theme=dark&layout=compact&bg_color=0D1117&title_color=2E8B57&hide_border=true&langs_count=8" alt="Linguagens Mais Usadas" width="60%" />
 </div>
 
 ---
@@ -35,10 +35,10 @@
 <!-- Destaques Especiais -->
 ### ⚡ **Destaques**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K0yall&theme=dark&bg_color=0D1117&title_color=2E8B57&hide_border=true&layout=compact" alt="Tempo de Codificação" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K0yall&theme=dark&bg_color=0D1117&title_color=2E8B57&hide_border=true&layout=compact" alt="Tempo de Codificação" width="60%" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0yall&theme=github_dark" width="45%" alt="Repositórios por Linguagem" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0yall&theme=github_dark" width="45%" alt="Linguagens com Mais Commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0yall&theme=github_dark" alt="Repositórios por Linguagem" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0yall&theme=github_dark" alt="Linguagens com Mais Commits" width="45%" />
 </div>
 
 ---
