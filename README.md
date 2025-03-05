@@ -47,8 +47,7 @@
 ---
 
 <!-- Footer -->
-<div align="center" style="margin-top: 30px;">
-  <img src="https://media.tenor.com/images/8f0a6b1dcb238acb9b7c24a5dcea5eef/tenor.gif" width="200px" alt="Tech GIF">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=K0yall&color=2E8B57&style=flat-square" alt="Contador de Visitas">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=K0yall&color=2E8B57&style=for-the-badge" alt="Visitas"> 
+  <img src="https://img.shields.io/github/followers/K0yall?color=2E8B57&style=for-the-badge" alt="Seguidores">
 </div>
