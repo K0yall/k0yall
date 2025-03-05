@@ -1,24 +1,54 @@
-# 💫 Sobre Mim:
-👋 Olá! Eu sou o Lucas.<br>🎯 Apaixonado por tecnologia, desafios e aprendizado constante!
-
-# 💻 Tecnologias:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=K0yall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=K0yall&theme=dark&hide_border=false&background=0D1117&ring=2E8B57&fire=2E8B57&currStreakNum=FFFFFF&sideNums=2E8B57&currStreakLabel=2E8B57&sideLabels=FFFFFF&dates=FFFFFF)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K0yall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF)
-
-## 🏆 Troféus do GitHub
-![](https://github-profile-trophy.vercel.app/?username=K0yall&theme=dark&no-frame=false&no-bg=false&margin-w=4&title=2E8B57&text_color=FFFFFF)
-
-### 🔝 Repositório Mais Contribuído
-![](https://github-contributor-stats.vercel.app/api?username=K0yall&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF)
+<!-- Header Animado -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=2E8B57&center=true&vCenter=true&width=600&lines=👋+Olá,+Sou+o+Lucas!;💻+Desenvolvedor+em+Formação;🌱+Aprendizado+Contínuo" alt="Header animado">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=K0yall&icon=9&color=2E8B57)](https://visitcount.itsvg.in)
 
-<!-- Criado com orgulho usando GPRM ( https://gprm.itsvg.in ) -->
+<!-- Seção Tech -->
+### 🚀 **Tecnologias que Utilizo**
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</div>
 
-![Snake GIF](https://github.com/K0yall/k0yall/raw/output/dist/snake.gif)
-![Computador Retro de Anime](https://media.tenor.com/images/49a98dfdb8c9945b7cc44a9a75f0d93a/tenor.gif)
+---
+
+<!-- Seção Stats -->
+### 📊 **Minha Atividade no GitHub**
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=K0yall&theme=dark&show_icons=true&bg_color=0D1117&title_color=2E8B57&hide_border=true&include_all_commits=true" alt="Estatísticas" style="width: 100%;">
+  </div>
+  
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=K0yall&theme=dark&background=0D1117&ring=2E8B57&fire=2E8B57&currStreakNum=FFFFFF&sideNums=2E8B57&dates=FFFFFF" alt="Streak" style="width: 100%;">
+  </div>
+</div>
+
+<div align="center" style="margin: 25px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0yall&theme=dark&layout=compact&bg_color=0D1117&title_color=2E8B57&hide_border=true&langs_count=8" alt="Top Linguagens" style="width: 90%;">
+</div>
+
+---
+
+<!-- Destaques -->
+### ⚡ **Destaques**
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0yall&theme=github_dark" alt="Repositórios por Linguagem" style="width: 45%; min-width: 280px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0yall&theme=github_dark" alt="Commits por Linguagem" style="width: 45%; min-width: 280px;">
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center" style="margin-top: 30px;">
+  <img src="https://media.tenor.com/images/8f0a6b1dcb238acb9b7c24a5dcea5eef/tenor.gif" width="200px" alt="Tech GIF">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=K0yall&color=2E8B57&style=flat-square" alt="Contador de Visitas">
+</div>
