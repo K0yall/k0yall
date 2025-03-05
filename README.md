@@ -71,9 +71,5 @@
 
 <!-- Visitas + Divider -->
 <div style="margin: 25px 0;">
-  <img src="https://komarev.com/ghpvc/?username=K0yall&color=2E8B57&style=for-the-badge&label=👀Visualizações" alt="Visitas">
-</div>
-
-<img src="https://media.tenor.com/3bTx4Hjrrj0AAAAi/pixel-cat.gif" width="150px" alt="GIF de Gatinho Pixel">
-
+  <img src="https://komarev.com/ghpvc/?username=K0yall&color=2E8B57&style=for-the-badge&label=👀Viitas" alt="Visitas">
 </div>
