@@ -26,7 +26,7 @@ Aprendendo sobre:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>
 </div>
@@ -43,18 +43,17 @@ Aprendendo sobre:
 ### 📦 Distros Linux
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/kalilinux.svg" title="Kali Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/kali-linux.svg" title="Kali Linux" width="50" height="50"/>
 </div>
 
 ---
 
 ## 🔒 Cybersecurity
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/burpsuite.svg" title="Burp Suite" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nmap.svg" title="Nmap" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/wireshark.svg" title="Wireshark" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/metasploit.svg" title="Metasploit" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/owasp.svg" title="OWASP" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/burp-suite.svg" title="Burp Suite" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nmap.svg" title="Nmap" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" title="Wireshark" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/images/metasploit-logo.svg" title="Metasploit" width="50" height="50"/>
 </div>
 
 ---
@@ -74,10 +73,6 @@ Aprendendo sobre:
 ## 📡 Social Metrics
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=K0yall&color=00E5FF&style=flat-square&label=VISITAS" alt="Visitas"/>
-</div>
-
-<div align="center" style="margin-top:8px;">
-  <img src="https://img.shields.io/badge/Repos-?logo=github&color=00E5FF&style=for-the-badge&labelColor=000&logoColor=white" alt="Repos"/>
-  <img src="https://img.shields.io/github/followers/K0yall?logo=github&label=Followers&color=00E5FF&style=for-the-badge&labelColor=000" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/K0yall?logo=github&label=Stars&color=00E5FF&style=for-the-badge&labelColor=000" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/K0yall?logo=github&label=Followers&color=00E5FF&style=flat-square&labelColor=000" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/K0yall?logo=github&label=Stars&color=00E5FF&style=flat-square&labelColor=000" alt="Stars"/>
 </div>
