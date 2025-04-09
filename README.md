@@ -36,12 +36,12 @@ Aprendendo sobre:
 
 ## 🛡️ Cyber & Ferramentas
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bash.svg" title="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kalilinux.svg" title="Kali Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wireshark.svg" title="Wireshark" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nmap.svg" title="Nmap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/burpsuite.svg" title="Burp Suite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/metasploit.svg" title="Metasploit" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gnubash.svg" title="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/kalilinux.svg" title="Kali Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/wireshark.svg" title="Wireshark" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nmap.svg" title="Nmap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/burpsuite.svg" title="Burp Suite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/metasploit.svg" title="Metasploit" width="40" height="40"/>
 </div>
 
 ---
@@ -62,8 +62,9 @@ Aprendendo sobre:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=K0yall&color=00E5FF&style=flat-square&label=VISITAS" alt="Visitas"/>
 </div>
+
 <div align="center" style="margin-top:8px;">
-  <img src="https://img.shields.io/github/repo-count/K0yall?label=Repos&style=for-the-badge&color=00E5FF&logo=github"/>
-  <img src="https://img.shields.io/github/followers/K0yall?label=Followers&style=for-the-badge&color=00E5FF&logo=github"/>
-  <img src="https://img.shields.io/github/stars/K0yall?label=Stars&style=for-the-badge&color=00E5FF&logo=github"/>
+  <img src="https://img.shields.io/badge/Repos-?logo=github&color=00E5FF&style=for-the-badge&labelColor=000&logoColor=white" alt="Repos"/>
+  <img src="https://img.shields.io/github/followers/K0yall?logo=github&label=Followers&color=00E5FF&style=for-the-badge&labelColor=000" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/K0yall?logo=github&label=Stars&color=00E5FF&style=for-the-badge&labelColor=000" alt="Stars"/>
 </div>
