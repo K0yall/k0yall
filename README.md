@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Sobre Mim
+## <span style="color:white">📌 Sobre Mim</span>
 **`Desenvolvedor em Evolução`**  
 Estudando diariamente sobre:
 - 🔒 Cibersegurança  
@@ -15,9 +15,9 @@ Estudando diariamente sobre:
 
 ---
 
-## 🛠 Habilidades Técnicas
+## <span style="color:white">🛠 Habilidades Técnicas</span>
 
-### 💻 Linguagens de Programação
+### <span style="color:white">💻 Linguagens de Programação</span>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="45" height="45"/>
@@ -26,14 +26,14 @@ Estudando diariamente sobre:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/>
 </p>
 
-### 🧰 Frameworks & Ferramentas
+### <span style="color:white">🧰 Frameworks & Ferramentas</span>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>
 </p>
 
-### 🎨 Front-End
+### <span style="color:white">🎨 Front-End</span>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>
@@ -41,7 +41,7 @@ Estudando diariamente sobre:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## <span style="color:white">📊 Estatísticas do GitHub</span>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K0yall&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -54,7 +54,7 @@ Estudando diariamente sobre:
 
 ---
 
-## 🌟 Atividades em Destaque
+## <span style="color:white">🌟 Atividades em Destaque</span>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0yall&theme=github_dark" width="45%" />
@@ -67,14 +67,14 @@ Estudando diariamente sobre:
 
 ---
 
-## 📡 Visitas e Métricas
+## <span style="color:white">📡 Visitas e Métricas</span>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=K0yall&color=00FF00&style=flat-square&label=VISITAS" alt="Visitas no Perfil"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositórios-📂-0D1117?style=for-the-badge&logo=github&logoColor=white&color=00FF00"/>
-  <img src="https://img.shields.io/badge/Seguidores-👥-0D1117?style=for-the-badge&logo=github&logoColor=white&color=00FF00"/> 
-  <img src="https://img.shields.io/badge/Estrelas-⭐-0D1117?style=for-the-badge&logo=github&logoColor=white&color=00FF00"/>
+  <img src="https://img.shields.io/github/repos/K0yall?label=Reposit%C3%B3rios&color=00FF00&logo=github&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/K0yall?label=Seguidores&color=00FF00&logo=github&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/K0yall?label=Estrelas&color=00FF00&logo=github&style=for-the-badge"/>
 </p>
