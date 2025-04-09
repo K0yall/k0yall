@@ -6,21 +6,9 @@
 ---
 
 ## 📌 Sobre Mim
-**`Desenvolvedor em Evolução`**  
-Estudando diariamente sobre:  
+**`Dev em Evolução`**  
+Aprendendo sobre:  
 🔒 Cibersegurança • ⚙️ Back‑End • 🎨 Front‑End • 🤖 IA  
-
----
-
-## 🛡️ Cyber & Ferramentas
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bash.svg" title="Bash" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kalilinux.svg" title="Kali Linux" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wireshark.svg" title="Wireshark" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nmap.svg" title="Nmap" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/burpsuite.svg" title="Burp Suite" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/metasploit.svg" title="Metasploit" width="40"/>
-</div>
 
 ---
 
@@ -42,6 +30,18 @@ Estudando diariamente sobre:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40"/>
+</div>
+
+---
+
+## 🛡️ Cyber & Ferramentas
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bash.svg" title="Bash" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kalilinux.svg" title="Kali Linux" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wireshark.svg" title="Wireshark" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nmap.svg" title="Nmap" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/burpsuite.svg" title="Burp Suite" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/metasploit.svg" title="Metasploit" width="40"/>
 </div>
 
 ---
