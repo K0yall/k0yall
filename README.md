@@ -15,9 +15,23 @@ Estudando diariamente sobre:
 
 ---
 
-## 🛠 Habilidades Técnicas
+## 🛡️ Cibersegurança & Ferramentas
 
-### 💻 Linguagens de Programação
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/353884/kali-linux.svg" title="Kali Linux" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/448247/wireshark.svg" title="Wireshark" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nmap-logo.svg" title="Nmap" width="45" height="45"/>
+  <img src="https://avatars.githubusercontent.com/u/19925262?s=280&v=4" title="Burp Suite" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Metasploit_logo_and_wordmark.svg/2560px-Metasploit_logo_and_wordmark.svg.png" title="Metasploit" width="90" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" title="Vagrant" width="45" height="45"/>
+</p>
+
+---
+
+## 💻 Linguagens de Programação
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="45" height="45"/>
@@ -26,14 +40,20 @@ Estudando diariamente sobre:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/>
 </p>
 
-### 🧰 Frameworks & Ferramentas
+---
+
+## 🧰 Frameworks & Ferramentas
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>
 </p>
 
-### 🎨 Front-End
+---
+
+## 🎨 Front-End
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>
