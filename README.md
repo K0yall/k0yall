@@ -8,16 +8,16 @@
 ## 📌 Sobre Mim
 **`Desenvolvedor em Evolução`**  
 Estudando diariamente sobre:
-- 🔒 Cibersegurança
-- ⚙️ Back-End Development
-- � Front-End Fundamentals
-- 🧠 Inteligência Artificial
+- 🔒 Cibersegurança  
+- ⚙️ Back-End Development  
+- 🎨 Front-End Fundamentals  
+- 🧠 Inteligência Artificial  
 
 ---
 
 ## 🛠 Habilidades Técnicas
 
-### 👨💻 Linguagens de Programação
+### 💻 Linguagens de Programação
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="45" height="45"/>
@@ -43,38 +43,38 @@ Estudando diariamente sobre:
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  
-  ![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=K0yall&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-  ![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com?user=K0yall&theme=dark&hide_border=true&background=0D1117&currStreakLabel=00FF00&sideLabels=cccccc&dates=cccccc&fire=00FF00&ring=00FF00)
-  
-  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=K0yall&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K0yall&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=K0yall&theme=dark&hide_border=true&background=0D1117&currStreakLabel=00FF00&sideLabels=cccccc&dates=cccccc&fire=00FF00&ring=00FF00" width="49%"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0yall&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="60%"/>
+</p>
 
 ---
 
 ## 🌟 Atividades em Destaque
 
-<div align="center">
-  
-  ![Repositórios por Linguagem](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0yall&theme=github_dark)
-  ![Linguagens Mais Commitadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0yall&theme=github_dark)
-  
-  ![Detalhes do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0yall&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0yall&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0yall&theme=github_dark" width="45%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0yall&theme=github_dark" width="90%" />
+</p>
 
 ---
 
 ## 📡 Visitas e Métricas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=K0yall&color=00FF00&style=flat-square&label=VISITAS" alt="Visitas no Perfil">
+  <img src="https://komarev.com/ghpvc/?username=K0yall&color=00FF00&style=flat-square&label=VISITAS" alt="Visitas no Perfil"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositórios-📂-0D1117?style=for-the-badge&logo=github&logoColor=white&color=00FF00">
-  <img src="https://img.shields.io/badge/Seguidores-👥-0D1117?style=for-the-badge&logo=github&logoColor=white&color=00FF00"> 
-  <img src="https://img.shields.io/badge/Estrelas-⭐-0D1117?style=for-the-badge&logo=github&logoColor=white&color=00FF00">
+  <img src="https://img.shields.io/badge/Repositórios-📂-0D1117?style=for-the-badge&logo=github&logoColor=white&color=00FF00"/>
+  <img src="https://img.shields.io/badge/Seguidores-👥-0D1117?style=for-the-badge&logo=github&logoColor=white&color=00FF00"/> 
+  <img src="https://img.shields.io/badge/Estrelas-⭐-0D1117?style=for-the-badge&logo=github&logoColor=white&color=00FF00"/>
 </p>
