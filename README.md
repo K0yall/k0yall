@@ -59,7 +59,7 @@
 <!-- 📌 Rodapé com Métricas -->
 <div align="center" style="margin-top: 40px;">
 
-  <img src="https://komarev.com/ghpvc/?username=K0yall&color=ffffff&style=flat-square&label=👀+Visitas" alt="Visitas no Perfil">
+  <img src="https://komarev.com/ghpvc/?username=K0yall&color=f5f5ff&style=flat-square&label=👀+Visitas" alt="Visitas no Perfil">
 
   <br><br>
 
