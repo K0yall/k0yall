@@ -28,7 +28,7 @@ Estudando diariamente sobre:
 
 ### 🧰 Frameworks & Ferramentas
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>
 </p>
@@ -44,7 +44,7 @@ Estudando diariamente sobre:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K0yall&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=K0yall&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=K0yall&theme=dark&hide_border=true&background=0D1117&currStreakLabel=00FF00&sideLabels=cccccc&dates=cccccc&fire=00FF00&ring=00FF00" width="49%"/>
 </p>
 
