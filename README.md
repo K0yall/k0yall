@@ -34,14 +34,12 @@ Aprendendo sobre:
 
 ---
 
-## 🛡️ Cyber & Ferramentas
+## 🖥️ Sistemas Operacionais
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gnubash.svg" title="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/kalilinux.svg" title="Kali Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/wireshark.svg" title="Wireshark" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nmap.svg" title="Nmap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/burpsuite.svg" title="Burp Suite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/metasploit.svg" title="Metasploit" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="40" height="40"/>
 </div>
 
 ---
