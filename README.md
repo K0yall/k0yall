@@ -56,7 +56,7 @@ Aprendendo sobre:
 
 ## 📡 Social Metrics
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=K0yall&color=00E5FF&style=flat-square&label=VISITAS" alt="Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=K0yall&color=00E5FF&style=flat-square&label=Visitas" alt="Visitas"/>
   <img src="https://img.shields.io/github/followers/K0yall?logo=github&label=Followers&color=00E5FF&style=flat-square&labelColor=000" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/K0yall?logo=github&label=Stars&color=00E5FF&style=flat-square&labelColor=000" alt="Stars"/>
 </div>
