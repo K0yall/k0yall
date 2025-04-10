@@ -40,22 +40,6 @@ Aprendendo sobre:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="50" height="50"/>
 </div>
 
-### 📦 Distros Linux
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/kali-linux.svg" title="Kali Linux" width="50" height="50"/>
-</div>
-
----
-
-## 🔒 Cybersecurity
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/burp-suite.svg" title="Burp Suite" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nmap.svg" title="Nmap" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" title="Wireshark" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/images/metasploit-logo.svg" title="Metasploit" width="50" height="50"/>
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
