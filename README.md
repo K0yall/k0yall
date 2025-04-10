@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 📌 Sobre Mim<br>**`Dev em Evolução`**  <br>Aprendendo sobre:  <br>🔒 Cibersegurança • ⚙️ Back‑End • 🎨 Front‑End • 🤖 IA  
+# 📌 About Me:
+**`Dev em Evolução`**  <br>Aprendendo sobre:  <br>🔒 Cibersegurança • ⚙️ Back‑End • 🎨 Front‑End • 🤖 IA  
 
 
 # 💻 Tech Stack:
